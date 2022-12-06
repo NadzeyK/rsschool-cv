@@ -1,5 +1,5 @@
-##***Nadzeya Kazlova***
-  ######Junior QA engineer
+##**Nadzeya Kazlova**
+  **Junior QA engineer**
 
 
   **Contact information:**  
@@ -22,14 +22,15 @@
   5. Charles Proxy
   6. test case, bugs report, trr / 
 
-  # Code example: 
-    ##I used the code from the CODEWARS assignment: 
-     '''const assert = require('chai').assert;
+  # **Code example**: 
+    I used the code from the CODEWARS assignment: 
+      
+     ''' const assert = require('chai').assert;
 describe("Tests", () => {
   it("test", () => {
     assert.strictEqual(numberToString(67), '67');
   });
-}); '''
+});  '''
 
 ## **Courses:** 
   RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
