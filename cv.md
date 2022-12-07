@@ -1,4 +1,4 @@
-# ****Nadzeya Kazlova**** 
+# Nadzeya Kazlova
  ![1](https://user-images.githubusercontent.com/116906044/205946731-7aac4a65-66dd-4df9-bacd-55f407f66278.jpg)
  
  ***Junior QA engineer***
