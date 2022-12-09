@@ -1,10 +1,10 @@
 # Nadzeya Kazlova
- ![1](https://user-images.githubusercontent.com/116906044/205946731-7aac4a65-66dd-4df9-bacd-55f407f66278.jpg)
+ ![1](https://user-images.githubusercontent.com/116906044/206750403-746475ad-05f3-4390-a3e0-83a0aa9f7aab.jpg)
  
  ***Junior QA engineer***
 
   **Contact information:**  
-  Phone: +955 598139942  
+  Phone: +375291320984
 
   E-mail: kazlovanadzeya@gmail.com  
   Telegram: @mooncake_9
@@ -12,29 +12,30 @@
   
   
    **About myself** 
-  
-  In 2020, I had the opportunity to test a mobile app as a beta tester. It was fascinating and I realized that I needed to move in that direction. While continuing to work as a doctor, I completed courses in functional testing and am now studying frontend for general to understand the basics. 
+   
+Previously, I was successfully involved in testing and diagnosing people's health. Now I will be involved in mobile app and website testing.  Working with people - 
+good communication skills, health - attention to detail.
+Ready to learn and grow as a specialist! 
   
   
  **Skills and Proficiency:**
-  1. HTML5
-  2. GIT, Github
-  3. Selenium
-  4. Postman
-  5. Charles Proxy
-  6. test case, bugs report, trr 
+ 
+ 1. bug reports in Jira
+ 2. Basic test design techniques. (Equivalence classes, boundary values.)
+ 3. Functional testing of mobile, web versions.
+ 4. Basic API queries in Postman. (GET, POST, DELETE, HEAD).
+ 5. CRUD operations in MySQl.
+ 6. Knowledge and understanding of working with Crome DevTools.
+ 7. Basic use of Charles Proxy 
+ 8. Understanding of Waterfall and Agile workflow
+ 9. Base markdown, read HTML, read JSON
 
-  ## **Code example**:
-      
-     ''' const assert = require('chai').assert; 
-         describe("Tests", () => {it("test", () => {
-    assert.strictEqual(numberToString(67), '67');
-    });    }); '''
 
 ## **Courses:** 
- 1. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
- 
- 2. It academy "functional testing"*
+
+1. It academy "functional testing"
+2. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
   
 ## **Languages:** 
 1. English - elementary 
